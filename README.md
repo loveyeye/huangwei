@@ -6,7 +6,7 @@ tushuguanli
 #include<fstream.h>//文件流
 #include<iomanip.h> //控制数据输出格式
 #include<string.h>
- 
+
 const int Maxr=100 ;//最多的读者数 
 const int Maxb=100; //最多的图书数
 const int Maxbor=5; //每位读者最多借的书
